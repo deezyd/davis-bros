@@ -15,7 +15,7 @@ for row in range(1,40):
 
 ws2 = wb.create_sheet(title="Pi")
 
-ws2['F5'] = 3.14
+ws2['F5'] = 3.1415
 
 ws3 = wb.create_sheet(title="Data")
 for row in range(1,20):
